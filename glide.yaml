@@ -1,4 +1,4 @@
-package: github.com/jesse0michael/go-rest-assured
+package: github.com/Jesse0Michael/go-rest-assured
 import:
 - package: github.com/gorilla/handlers
 - package: github.com/gorilla/mux

@@ -11,8 +11,8 @@ import (
 	"os/signal"
 	"syscall"
 
+	"github.com/Jesse0Michael/go-rest-assured/assured"
 	kitlog "github.com/go-kit/kit/log"
-	"github.com/jesse0michael/go-rest-assured/assured"
 )
 
 func main() {

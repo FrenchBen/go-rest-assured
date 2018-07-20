@@ -1,8 +1,8 @@
-hash: 1af75dc38c3120e8bafb8f1327ca56dc1d454eb23711d502bf23b9a14523e0e5
-updated: 2018-04-10T20:11:59.940059503-07:00
+hash: 829ffd423d5e4ecd3292716474f6bf6514692b972c36f6355693e7296f25d968
+updated: 2018-07-20T21:19:17.884142094Z
 imports:
 - name: github.com/go-kit/kit
-  version: feff11c789717b48706f30d9df3ee315e5d6ea51
+  version: af7386548c7b8877fff3f25f6b67dddfc1e3ed0a
   subpackages:
   - endpoint
   - log
@@ -14,24 +14,24 @@ imports:
 - name: github.com/gorilla/context
   version: 08b5f424b9271eedf6f9f0ce86cb9396ed337a42
 - name: github.com/gorilla/handlers
-  version: 90663712d74cb411cbef281bc1e08c19d1a76145
+  version: 6257a585e449b97a6b520bbd86575c4aa9f7c596
 - name: github.com/gorilla/mux
-  version: c0091a029979286890368b4c7b301261e448e242
+  version: cb4698366aa625048f3b815af6a0dea8aef9280a
 - name: github.com/kr/logfmt
   version: b84e30acd515aadc4b783ad4ff83aff3299bdfe0
 - name: github.com/pborman/uuid
-  version: a97ce2ca70fa5a848076093f05e639a89ca34d06
+  version: c65b2f87fee37d1c7854c9164a450713c28d50cd
 - name: github.com/stretchr/testify
-  version: b89eecf5ca5db6d3ba60b237ffe3df7bafb7662f
+  version: f35b8ab0b5a2cef36673838d662e249dd9c94686
   subpackages:
   - assert
   - require
 testImports:
 - name: github.com/davecgh/go-spew
-  version: 346938d642f2ec3594ed81d874461961cd0faa76
+  version: 8991bc29aa16c548c550c7ff78260e27b9ab7c73
   subpackages:
   - spew
 - name: github.com/pmezard/go-difflib
-  version: d8ed2627bdf02c080bf22230dbb337003b7aba2d
+  version: 792786c7400a136282c1664665ae0a8db921c6c2
   subpackages:
   - difflib
